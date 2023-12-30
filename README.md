@@ -1,10 +1,6 @@
 # androidNativeLibsList
 Repo with list of different native libs encountered during RE
 
-libCrossUnblocker.so \
-libFlatBuffersParser.so \
-libViberRTC.so \
-libVoipEngineNative.so \
 libbar.so\
 libbarhopper_v3.so\
 libc++_shared.so\
@@ -12,8 +8,10 @@ libcrashlytics-common.so \
 libcrashlytics-handler.so \
 libcrashlytics-trampoline.so \
 libcrashlytics.so \
+libCrossUnblocker.so \
 libfb.so \
 libfbjni.so \
+libFlatBuffersParser.so \
 libfolly_futures.so \
 libfolly_json.so \
 libgifimage.so \
@@ -53,5 +51,7 @@ libsqliteX.so \
 libsvg.so \
 libtensorflowlite_gpu_jni.so \
 libtensorflowlite_jni.so \
+libViberRTC.so \
 libvideoconvert.so \
+libVoipEngineNative.so \
 libyoga.so \
